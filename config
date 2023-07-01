@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[branch "main"]
+[remote "origin"]
+	url = https://github.com/ramsai24/iplDashboardapp-assignment-4-react-again.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
